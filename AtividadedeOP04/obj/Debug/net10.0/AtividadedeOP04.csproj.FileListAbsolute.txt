@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\AtividadedeOP04\bin\Debug\net10.0\AtividadedeOP04.exe
+C:\Users\admin\source\repos\AtividadedeOP04\bin\Debug\net10.0\AtividadedeOP04.deps.json
+C:\Users\admin\source\repos\AtividadedeOP04\bin\Debug\net10.0\AtividadedeOP04.runtimeconfig.json
+C:\Users\admin\source\repos\AtividadedeOP04\bin\Debug\net10.0\AtividadedeOP04.dll
+C:\Users\admin\source\repos\AtividadedeOP04\bin\Debug\net10.0\AtividadedeOP04.pdb
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.AssemblyInfo.cs
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.dll
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\refint\AtividadedeOP04.dll
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.pdb
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\AtividadedeOP04.genruntimeconfig.cache
+C:\Users\admin\source\repos\AtividadedeOP04\obj\Debug\net10.0\ref\AtividadedeOP04.dll
