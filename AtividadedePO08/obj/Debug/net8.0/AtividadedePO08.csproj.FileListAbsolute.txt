@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\AtividadedePO08\bin\Debug\net8.0\AtividadedePO08.exe
+C:\Users\Administrador\source\repos\AtividadedePO08\bin\Debug\net8.0\AtividadedePO08.deps.json
+C:\Users\Administrador\source\repos\AtividadedePO08\bin\Debug\net8.0\AtividadedePO08.runtimeconfig.json
+C:\Users\Administrador\source\repos\AtividadedePO08\bin\Debug\net8.0\AtividadedePO08.dll
+C:\Users\Administrador\source\repos\AtividadedePO08\bin\Debug\net8.0\AtividadedePO08.pdb
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.dll
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\refint\AtividadedePO08.dll
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.pdb
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\AtividadedePO08.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\AtividadedePO08\obj\Debug\net8.0\ref\AtividadedePO08.dll
