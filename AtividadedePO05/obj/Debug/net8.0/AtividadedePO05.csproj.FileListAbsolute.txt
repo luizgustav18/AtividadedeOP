@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\AtividadedePO05\bin\Debug\net8.0\AtividadedePO05.exe
+C:\Users\Administrador\source\repos\AtividadedePO05\bin\Debug\net8.0\AtividadedePO05.deps.json
+C:\Users\Administrador\source\repos\AtividadedePO05\bin\Debug\net8.0\AtividadedePO05.runtimeconfig.json
+C:\Users\Administrador\source\repos\AtividadedePO05\bin\Debug\net8.0\AtividadedePO05.dll
+C:\Users\Administrador\source\repos\AtividadedePO05\bin\Debug\net8.0\AtividadedePO05.pdb
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.dll
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\refint\AtividadedePO05.dll
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.pdb
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\AtividadedePO05.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\AtividadedePO05\obj\Debug\net8.0\ref\AtividadedePO05.dll
