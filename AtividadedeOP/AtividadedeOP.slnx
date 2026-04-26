@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../AtividadedeOP02/AtividadedeOP02.csproj" />
+  <Project Path="../AtividadedeOP03/AtividadedeOP03.csproj" Id="22d732c9-b402-48c5-86c6-8d500c8259b7" />
+  <Project Path="../AtividadedeOP04/AtividadedeOP04.csproj" Id="9d43238d-8170-46b0-b75b-80443eca4f3d" />
+  <Project Path="../AtividadedeOP05/AtividadedeOP05.csproj" Id="79c43cca-e091-4046-9e5b-9e13a94b35d5" />
+  <Project Path="AtividadedeOP.csproj" />
+</Solution>

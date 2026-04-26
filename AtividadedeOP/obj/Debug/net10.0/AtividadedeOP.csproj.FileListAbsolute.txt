@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\AtividadedeOP\bin\Debug\net10.0\AtividadedeOP.exe
+C:\Users\admin\source\repos\AtividadedeOP\bin\Debug\net10.0\AtividadedeOP.deps.json
+C:\Users\admin\source\repos\AtividadedeOP\bin\Debug\net10.0\AtividadedeOP.runtimeconfig.json
+C:\Users\admin\source\repos\AtividadedeOP\bin\Debug\net10.0\AtividadedeOP.dll
+C:\Users\admin\source\repos\AtividadedeOP\bin\Debug\net10.0\AtividadedeOP.pdb
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.AssemblyInfo.cs
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.dll
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\refint\AtividadedeOP.dll
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.pdb
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\AtividadedeOP.genruntimeconfig.cache
+C:\Users\admin\source\repos\AtividadedeOP\obj\Debug\net10.0\ref\AtividadedeOP.dll
